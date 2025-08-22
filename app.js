@@ -11,9 +11,3 @@ let linguagensDeProgramação = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
 linguagensDeProgramação.push('Java', 'Ruby', 'GoLang');
 console.log(linguagensDeProgramação);
 
-//Lista de nomes
-let Nomes = ['Adriano', 'Joaquim', 'Rebecca'];
-
-
-//falando o terceiro nome
-console.log(Nomes[2]);
