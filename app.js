@@ -8,6 +8,6 @@ let linguagensDeProgramação = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
 
 //Puxando dados
 
-linguagensDeProgramação.push('Java', 'Ruby', 'GoLang');
+linguagensDeProgramação.push('JavaScript', 'Ruby', 'GoLang');
 console.log(linguagensDeProgramação);
 
